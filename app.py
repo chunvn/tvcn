@@ -23,8 +23,7 @@ DESIRED_ORDER = [
     "Ban", "Nhóm", "Mã TVV", "Tên TVV",
     "SĐT", "Tên KH", "Số lần gặp",
     "Ngày đăng ký", "Ngày thực hiện",
-    "Ảnh báo cáo", "IP (trđ)",
-    "ID"
+    "IP (trđ)", "ID", "Ảnh báo cáo"
 ]
 
 # ---------- Helpers ----------
